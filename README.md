@@ -6,4 +6,4 @@
 
 * [Git이란?][go to git]
 
-[go to git]: https://github.com/Minseo-Jo/Coding-tech/blob/592007534b7fb600d3f044d0526af2823279c49f/Git
+[go to git]: https://github.com/Minseo-Jo/Coding-tech/blob/4f04b666a0f6299543666a70a47c6a6c3c472c80/Git/Git.md

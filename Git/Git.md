@@ -14,26 +14,22 @@ Git에서는 소스코드가 변경된 이력을 쉽게 확인할 수 있고, �
 
 ```
 > #### *ex)*
- 
- <img src="https://user-images.githubusercontent.com/87311912/125887104-005002b5-ee28-4156-9259-7c72c888271c.jpg" width="450px" height="300px" title="create a new repository" alt=""></img><br/>
+
+![create a new repository](https://user-images.githubusercontent.com/87311912/125887104-005002b5-ee28-4156-9259-7c72c888271c.jpg)
  
  Github-test라는 새로운 repository를 만들면 Github-test라는 폴더가 생성되고 그 안에는 .git이라는 폴더가 생성되는 걸 확인할 수 있다.
  
  새롭게 만들어진 버전들은 이 .git 폴더에 저장된다. 
  
  
-  
-  
-  
-<img src= "https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg" width = "450px" height="300px" title="create a new file"></img><br/>
+![create new file](https://user-images.githubusercontent.com/87311912/125887163-27f1af1f-57f8-4c26-bba1-76dcbcc99b9d.jpg)
   
   Github-test 폴더 안에 hello.txt파일을 생성해보자. 
   
   Git은 hello.txt파일이 생성되었다는 것을 인지하고 Desktop에 이 파일을 올려둔다. 
  
  
-
-<img src="https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg" width = "450px" height="300px" title= "first commit"></img><br/>
+![first commit](https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg) 
  
  hello.txt파일에 내용을 입력하고 작업의 이름을 Message1으로 남겨 둔 다음 commit 한다. 
  

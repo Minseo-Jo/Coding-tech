@@ -71,6 +71,37 @@ Git은 정보를 안전하게 보호하기 위한 수단으로 사용된다.
 
 > #### *ex)*
 
+![publish repository](https://user-images.githubusercontent.com/87311912/125934532-e0b31b47-73da-4a7c-895d-6cb012215ee5.jpg)
+
+
+
+우측 상단에 있는 publish repository를 클릭하면 내 컴퓨터에 있는 저장소와 똑같은 것이 github.com에 생기게 된다. 
+
+이 때,
+
+내 컴퓨터에 있는 저장소를 **지역 저장소**라고 한다.
+
+내 컴퓨터가 아닌 github.com과 같은 다른 사람의 컴퓨터를 **원격 저장소**라고 한다. 
+
+![thrid commit](https://user-images.githubusercontent.com/87311912/125934351-66e65215-a482-464d-ab2d-9df87d9cbb6d.jpg)
+
+hello.txt파일을 수정한 뒤 버전 이름을 Message 4로 입력하고 commit한다. 
+
+
+![push orgin](https://user-images.githubusercontent.com/87311912/125934608-cc48ee52-1767-4551-bbf7-25b923b62107.jpg)
+
+파일을 수정하게 되면 우측 상단에 push orgin이라는 버튼이 생성된다. 
+
+이는 원격 저장소에 파일을 밀어 넣는다는 뜻으로 이해하면 된다. 
+
+즉 내 컴퓨터, 지역 저장소에서 원격 저장소로 파일이 전송되었다는 것이다. 
+
+![message 4 push](https://user-images.githubusercontent.com/87311912/125934629-0c11517f-298d-47e6-984b-a5d65d0b440b.jpg)
+
+다시 github.com에 가서 확인해보니 수정된 hello.txt파일과 Message 4버전이 생성된 것을 확인할 수 있다. 
+
+이것이 바로 우리의 정보를 안전하게 보관해주는 백업의 특성이다. 
+
 
 
 #### 3. *collaborate*

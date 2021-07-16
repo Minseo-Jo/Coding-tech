@@ -31,9 +31,29 @@ Git에서는 소스코드가 변경된 이력을 쉽게 확인할 수 있고, �
  
 ![first commit](https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg) 
  
- hello.txt파일에 내용을 입력하고 작업의 이름을 Message1으로 남겨 둔 다음 commit 한다. 
+ hello.txt파일에 내용을 입력하고 작업의 이름을 Message 1으로 남겨 둔 다음 commit 한다. 
  
  **commit**이란 버전을 생성한다는 뜻 정도로 이해하면 될 것 같다. 
+ 
+ 
+![second commit](https://user-images.githubusercontent.com/87311912/125890360-2997a64f-9bd3-4d3f-b0c5-e9f1c807cedc.jpg)
+
+hello.txt파일을 수정한 뒤 작업의 이름을 Message 2로 남겨두고 commit 한다.
+
+Git의 버전관리의 핵심은 **각각의 버전 사이의 차이점을 손쉽게 볼 수 있다**는 것이다.
+
+이를 어떻게 확인할 수 있을까?
+
+좌측 상단의 History를 클릭해본다. 
+
+![confirm history](https://user-images.githubusercontent.com/87311912/125890401-589c7d20-907e-4fcb-a9f7-834f53cb2667.jpg)
+
+History의 기록을 통해 문서들의 변경사항들을 추적해나갈 수 있다.
+
+또한 몇 번의 클릭으로 우리는 과거의 프로젝트로 돌아갈 수도 있다. 
+
+
+
 
 
 

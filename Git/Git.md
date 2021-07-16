@@ -1,6 +1,6 @@
 # Git이란?
 
->##### **Git**이란 버전 관리 시스템(VSC, Version Control System)의 한 종류이다. 
+>#### **Git**이란 버전 관리 시스템(VSC, Version Control System)의 한 종류이다. 
 
 
 ### Git의 3대 목적
@@ -10,11 +10,35 @@
 Git에서는 소스코드가 변경된 이력을 쉽게 확인할 수 있고, 특정 시점에 저장된 버전과 비교하거나 특정 시점으로 돌아갈 수 있다.
 
 또한 내가 올리려는 파일이 누군가 편집한 내용과 충돌한다면, 
-서버에 업로드 할 때 경고 메시지가 발생하여 누군가 애써 편집한 내용을 덮어써버리는 실수를 피할 수 있게한다. 
+서버에 업로드 할 때 경고 메시지가 발생하여 누군가 애써 편집한 내용을 덮어써버리는 실수를 피할 수 있게 한다. 
 
 ```
-##### *ex)*
- Github-test directory에 있는 파일들을 버전관리 하고 싶을 때
+> #### *ex)*
+ 
+ <img src="https://user-images.githubusercontent.com/87311912/125887104-005002b5-ee28-4156-9259-7c72c888271c.jpg" width="450px" height="300px" title="create a new repository" alt=""></img><br/>
+ 
+ Github-test라는 새로운 repository를 만들면 Github-test라는 폴더가 생성되고 그 안에는 .git이라는 폴더가 생성되는 걸 확인할 수 있다.
+ 
+ 새롭게 만들어진 버전들은 이 .git 폴더에 저장된다. 
+ 
+ 
+  
+  
+  
+<img src= "https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg" width = "450px" height="300px" title="create a new file"></img><br/>
+  
+  Github-test 폴더 안에 hello.txt파일을 생성해보자. 
+  
+  Git은 hello.txt파일이 생성되었다는 것을 인지하고 Desktop에 이 파일을 올려둔다. 
+ 
+ 
+
+<img src="https://user-images.githubusercontent.com/87311912/125887211-62d97103-8ba1-4a2f-9f5b-476493dfc227.jpg" width = "450px" height="300px" title= "first commit"></img><br/>
+ 
+ hello.txt파일에 내용을 입력하고 작업의 이름을 Message1으로 남겨 둔 다음 commit 한다. 
+ 
+ **commit**이란 버전을 생성한다는 뜻 정도로 이해하면 될 것 같다. 
+
 
 
 

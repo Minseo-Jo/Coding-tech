@@ -74,7 +74,7 @@ Git은 정보를 안전하게 보호하기 위한 수단으로 사용된다.
 ![publish repository](https://user-images.githubusercontent.com/87311912/125934532-e0b31b47-73da-4a7c-895d-6cb012215ee5.jpg)
 
 
-> 우측 상단에 있는 publish repository를 클릭하면 내 컴퓨터에 있는 저장소와 똑같은 것이 github.com에 생기게 된다. 
+우측 상단에 있는 publish repository를 클릭하면 내 컴퓨터에 있는 저장소와 똑같은 것이 github.com에 생기게 된다. 
 
 ![github-test repository](https://user-images.githubusercontent.com/87311912/125936305-8fffb895-80ce-43aa-bc95-e578a8937a62.jpg)
 

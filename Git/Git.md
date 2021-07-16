@@ -74,10 +74,12 @@ Git은 정보를 안전하게 보호하기 위한 수단으로 사용된다.
 ![publish repository](https://user-images.githubusercontent.com/87311912/125934532-e0b31b47-73da-4a7c-895d-6cb012215ee5.jpg)
 
 
+> 우측 상단에 있는 publish repository를 클릭하면 내 컴퓨터에 있는 저장소와 똑같은 것이 github.com에 생기게 된다. 
 
-우측 상단에 있는 publish repository를 클릭하면 내 컴퓨터에 있는 저장소와 똑같은 것이 github.com에 생기게 된다. 
+![github-test repository](https://user-images.githubusercontent.com/87311912/125936305-8fffb895-80ce-43aa-bc95-e578a8937a62.jpg)
 
-이 때,
+
+ 이 때,
 
 내 컴퓨터에 있는 저장소를 **지역 저장소**라고 한다.
 
@@ -95,6 +97,10 @@ hello.txt파일을 수정한 뒤 버전 이름을 Message 4로 입력하고 comm
 이는 원격 저장소에 파일을 밀어 넣는다는 뜻으로 이해하면 된다. 
 
 즉 내 컴퓨터, 지역 저장소에서 원격 저장소로 파일이 전송되었다는 것이다. 
+
+
+
+
 
 ![message 4 push](https://user-images.githubusercontent.com/87311912/125934629-0c11517f-298d-47e6-984b-a5d65d0b440b.jpg)
 

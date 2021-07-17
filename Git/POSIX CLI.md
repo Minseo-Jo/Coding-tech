@@ -19,8 +19,33 @@ CLI의 결정적인 장점 중 하나는 GUI는 절대 따라올 수 없는, 시
 
 또한 CLI는 운영체제 용량도 매우 작고 CPU, 메모리도 적게 사용하기 때문에 컴퓨터가 본연의 일에 충실하게 동작하는데 매우 좋다.
 
-### POSIX
+### *POSIX*
 
-Posix(Portable operating system interface)는 UNIX계열의 컴퓨터(UNIX, LINUX, MAC OS)들을 서로 동일한 방법으로 제어하기 위한 일종의 표준이다.
+**Posix(Portable operating system interface)** 는 Uinx계열의 컴퓨터(Unix, Linux, Mac OS)들을 서로 동일한 방법으로 제어하기 위한 일종의 표준이다.
 
 Window 같은 경우에는 Posix를 따르지 않기 때문에 이와 호환되지 않는다. 
+
+하지만 에뮬레이터, 일종의 통역과 같은 역할을 하는 프로그램을 설치하면 Posix와 같은 방법으로 컴퓨터를 제어할 수 있다. 
+
+### *데이터 처리 방법*
+
+우리가 데이터를 저장하는 곳은 file이다. 
+
+이 많은 file들을 관리하기 위해 만들어진 도구가 directory이다.
+
+즉 우리는 수많은 directory를 directory에 저장한다.
+
+그렇다면 저장된 데이터들은 어떻게 처리할까?
+
+4가지 데이터 처리방법이 있다.
+
+```
+C reate
+R ead
+U pdate
+D elete
+```
+
+즉 생성, 읽기, 수정, 삭제를 할 줄 안다면 우리는 Cli를 할 수 있다. 
+
+

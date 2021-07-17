@@ -6,7 +6,7 @@
 
 * [Git이란?][go to git]
 
-[go to git]: https://github.com/Minseo-Jo/Coding-tech/blob/6e96deb962c5e8e41c17246105a10fad19ae1c55/Git/Git.md
+[go to git]: https://github.com/Minseo-Jo/Coding-tech/blob/76ec9e32da6e05de174760a7352d9ce176792060/Git/Git.md
 
 * [CLI 버전관리][go to cli 버전관리]
   * [POSIX CLI][go to posix cli]

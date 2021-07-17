@@ -1,6 +1,6 @@
 # POSIX CLI
 
-### *GUI VS CLI*
+#### *GUI VS CLI*
 운영체제를 관리하는 방법에는 2가지가 있다. 
 
 **GUI(Graphic user interface)** 와 **CLI(Command line interface)** 이다.
@@ -19,7 +19,7 @@ CLI의 결정적인 장점 중 하나는 GUI는 절대 따라올 수 없는, 시
 
 또한 CLI는 운영체제 용량도 매우 작고 CPU, 메모리도 적게 사용하기 때문에 컴퓨터가 본연의 일에 충실하게 동작하는데 매우 좋다.
 
-### *POSIX*
+#### *POSIX*
 
 **Posix(Portable operating system interface)** 는 Uinx계열의 컴퓨터(Unix, Linux, Mac OS)들을 서로 동일한 방법으로 제어하기 위한 일종의 표준이다.
 
@@ -27,7 +27,7 @@ Window 같은 경우에는 Posix를 따르지 않기 때문에 이와 호환되�
 
 하지만 에뮬레이터, 일종의 통역과 같은 역할을 하는 프로그램을 설치하면 Posix와 같은 방법으로 컴퓨터를 제어할 수 있다. 
 
-### *데이터 처리 방법*
+#### *데이터 처리 방법*
 
 우리가 데이터를 저장하는 곳은 file이다. 
 

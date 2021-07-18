@@ -8,8 +8,7 @@
 
 [go to git]: https://github.com/Minseo-Jo/Coding-tech/blob/76ec9e32da6e05de174760a7352d9ce176792060/Git/Git.md
 
-* [CLI 버전관리][go to cli 버전관리]
+* CLI 버전관리
   * [POSIX CLI][go to posix cli]
 
-[go to cli 버전관리]: https://github.com/Minseo-Jo/Coding-tech/blob/e4249b4195064741baa8f6c87715be7a3a3793f0/Git/CLI%20%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC.md
 [go to posix cli]: https://github.com/Minseo-Jo/Coding-tech/blob/ffae4d21d7e030ef1d01e9da83d907bbaa1f3d20/Git/POSIX%20CLI.md

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<!--internal CSS
+internal 형식의 좋은 점: 복잡하고 다양한 style을 적용할 때 편리함-->
+
+<head>
+	<title>Onblur Event Page</title>
+	
+	<link rel="stylesheet" type="text/css" href="basic.css"> <!--링크를 통해 css파일 import시켜주기, css파일과 html파일이 같은 폴더에 있어야함-->
+	
+	<script>
+
+	
+	function doMath()
+	{
+		var x = 2;
+		var y = 10;
+		var z = 4;
+		var answer = x * y / z;
+		
+		document.getElementById("output").innerHTML = "The result is " + answer;
+	}
+	</script>
+	
+	<style type="text/css">
+		p.regular {color:blue;font-size:100%;}
+		p.medium {color:green;font-size:150%}
+		<!--style에서 지정하는 p는 body의 p에 style를 적용
+		p 뒤에 .을 붙이지 않으면 모든 p element에 style을 적용하는 것, 
+		.을 찍으면 뒤에있는 class에 해당하는 p만 style 적용-->
+	</style>
+	
+	
+
+</head>
+
+<body>
+	<H1>JavaScript Testing.</H1>
+	
+	<button onclick="doMath();">Do the Math</button>
+	<p id="output" style="color:green;font-size:200%;"></p>
+	
+	<p class="regular">This is a test of regular.</p>
+	<p class="testClass">This is a test of the test Class.</p>
+	
+	
+</body>
+
+</html>

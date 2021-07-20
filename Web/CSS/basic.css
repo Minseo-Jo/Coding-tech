@@ -1,0 +1,17 @@
+/*어디에 해당하는 style인지를 먼저 적고 중괄호 반드시열기
+들여쓰기 상관없음*/
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+	margin-left: 20px; 
+}
+
+.testClass{
+	color: red;
+	font-size: 300%;
+}
+/*그냥 (. class이름) 입력하면 element에 관계없이 해당하는 class에 style 부여*/

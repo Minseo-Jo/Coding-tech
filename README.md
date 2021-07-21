@@ -16,7 +16,8 @@
 ## 📕 Web
 
 * [HTML][go to HTML]
-* CSS
+* [CSS][go to CSS]
 * Javascript
 
-[go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/e817950f15caefd9c7f3bd30793e0f2f2c73a424/Web/HTML/HTML.md
+[go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/HTML/HTML.md
+[go to CSS]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/CSS/CSS.md

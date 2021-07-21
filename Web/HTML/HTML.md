@@ -19,8 +19,20 @@ L - Language
 
 ### Tag
 --------------------------------
+> *Tag의 형식*
+> > **<태그명 속성명1="속성값1" 속성명2="속성값2"> 컨텐츠 </태그명>**</br>
+> > 태그는 컨텐츠를 감싸서 그 정보의 성격과 의미를 정의 한다.
+
+
 > [*Heading tags*][link]
 
 > [*Paragraph tags*][link]
 
+> [*Link tags*][link2]
+
+> [*break tags*][link2]
+
+> [*basic tags*][link2]
+
 [link]: https://github.com/Minseo-Jo/Coding-tech/blob/ed9158ac5f22ceddd6fa83eaf0edf9816f375f78/Web/HTML/html1.html
+[link2]: https://github.com/Minseo-Jo/Coding-tech/blob/86fc010f9ca5ab5b9c3f26dd47794920fe8e4f67/Web/HTML/html2.html

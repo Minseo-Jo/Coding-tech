@@ -24,15 +24,22 @@ L - Language
 > > 태그는 컨텐츠를 감싸서 그 정보의 성격과 의미를 정의 한다.
 
 
-> [*Heading tags*][link]
+> [*Heading tag*][link]
 
-> [*Paragraph tags*][link]
+> [*Paragraph tag*][link]
 
-> [*Link tags*][link2]
+> [*Link tag*][link2]
 
-> [*break tags*][link2]
+> [*break tag*][link2]
 
-> [*basic tags*][link2]
+> [*basic tag*][link2]
+
+> [*Image tag*][link3]
+
+> [*Table tag*][link4]
+
 
 [link]: https://github.com/Minseo-Jo/Coding-tech/blob/ed9158ac5f22ceddd6fa83eaf0edf9816f375f78/Web/HTML/html1.html
 [link2]: https://github.com/Minseo-Jo/Coding-tech/blob/86fc010f9ca5ab5b9c3f26dd47794920fe8e4f67/Web/HTML/html2.html
+[link3]: https://github.com/Minseo-Jo/Coding-tech/blob/d98d274a2e47dc242fa64919e0ffd4832f810820/Web/HTML/html3.html
+[link4]: https://github.com/Minseo-Jo/Coding-tech/blob/d98d274a2e47dc242fa64919e0ffd4832f810820/Web/HTML/html4.html

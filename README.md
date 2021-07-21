@@ -15,5 +15,8 @@
 
 ## 📕 Web
 
-* HTML
+* [HTML][go to HTML] 
+ 
+[go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/1d8edb3fd65c76adbbc355c76457d3a1b750b114/Web/HTML/html.txt
+
 * CSS

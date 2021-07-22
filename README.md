@@ -20,4 +20,4 @@
 * Javascript
 
 [go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/HTML/HTML.md
-[go to CSS]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/CSS/CSS.md
+[go to CSS]: https://github.com/Minseo-Jo/Coding-tech/blob/5124e78eef1fdd7478d9171f482926965fc0661c/Web/CSS/CSS.md

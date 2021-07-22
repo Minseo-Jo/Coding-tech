@@ -15,8 +15,9 @@
 
 ## 📕 Web
 
-* [HTML][go to HTML] 
- 
-[go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/1d8edb3fd65c76adbbc355c76457d3a1b750b114/Web/HTML/html.txt
+* [HTML][go to HTML]
+* [CSS][go to CSS]
+* Javascript
 
-* CSS
+[go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/HTML/HTML.md
+[go to CSS]: https://github.com/Minseo-Jo/Coding-tech/blob/5124e78eef1fdd7478d9171f482926965fc0661c/Web/CSS/CSS.md

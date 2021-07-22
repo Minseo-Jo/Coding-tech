@@ -42,13 +42,36 @@ CSS는 HTML을 시각적으로 꾸며주는 역할을 한다.
   - 특정 태그명을 가진 엘리먼트 전체를 제어하기 위해서 사용
   - css선택자에서는 태그의 이름을 사용함
 
+
+  Example)
+  ```css
+  p {
+    color: red;
+    text-align: center;
+  }
+  ```
+
 - ID selector
   - id 속성은 전체 문서에서 하나의 태그를 식별하기 위해서만 사용됨
   - 우선순위가 가장 높음
   - css 선택자에서는 #을 사용해서 id임을 표시
+
+  Example)
+  ```css
+  #para1 {
+    text-align: center;
+    color: red;
+  }
 
 
 - Class selector
   - class 속성은 일련의 태그를 그룹핑해서 하나처럼 제어하기 위해서 사용
   - class 속성에는 공백으로 구분된 여러개의 class가 표시될 수 있음
   - css선택자에서는 '.'을 사용해서 class임을 표시
+
+  Example)
+  ```css
+  .center {
+    text-align: center;
+    color: red;
+   }

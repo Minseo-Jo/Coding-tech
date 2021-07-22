@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<title>Javascirpt</title>
+	
+<script>
+
+alert(1+1); //2
+alert(2*5); //10
+alert(6/2); //3 
+
+Math.pow(3,2); //9, 3의 2승
+Math.round(10.6); // 10.6을 반올림 
+
+alert(typeof "1") //string, typeof는 데이터형을 알려주는 기능
+
+alert('Minseo\'s javascript') //escape 기능
+
+alert("안녕하세요.\n저는 조민서입니다.")
+alert("안녕하세요.\n저는 조민서입니다.".length) //17, 줄바꿈도 개수에 포함
+
+//비교연산자 
+// ==: 값만 비교 ===: 데이터형까지 비교
+alert(1==2); //false
+alert(1==='1'); //false
+alert(null == undefined); //true
+alert(null === undefined);//false
+alert(NaN == NaN); //true
+alert(NaN === NaN); //false
+
+//조건문
+if(true){
+alert('result: true');
+} else{alert(2);
+} // result:true
+
+if(false){alert(1);}
+else if(true){alert(2);} //2
+
+id = prompt('아이디를 입력해주세요.')
+if(id == 'Minseo'){alert('아이디가 일치합니다.');}
+else{alert('아이디가 일치하지 않습니다.');}
+
+//조건문 중첩
+id2 = prompt('아이디를 입력해주세요.')
+if (id2=='Minseo'){password = prompt('비밀번호를 입력해주세요.');}
+	if (password === '111111'){alert('인증했습니다.');}
+	else{alert('인증에 실패했습니다.');}
+else{alert('인증에 실패했습니다.');}
+
+//논리 연산자 &&(and)
+//논리 연산자 ||(or)
+//논리 연산자 !(not)
+
+//기타 false로 간주되는 데이터형
+alert(''); //false, 빈문자열
+alert(0); //false
+alert(undefined); //false
+alert(null); //false
+alert(NaN); //false
+
+//반복문
+var i = 0;
+while(i<10){document.write('coding everybody '+i+'<br />');
+i++;
+}
+
+for(var i = 0; i < 10; i++)
+{document.write('coding everybody'+i+'<br/>' );}
+
+//객체의 생성
+var grades = {'minseo':10, 'hello': 6, 'world':4};
+
+var grades = {};
+grades['minseo']=10;
+grades['hello']=6;
+grades['world']=80;
+
+var grades = new Object();
+grades['minseo']=10;
+grades['hello']=6;
+grades['world']=80;
+
+</script>
+	
+
+</head>
+
+<body>
+
+</body>
+
+</html>

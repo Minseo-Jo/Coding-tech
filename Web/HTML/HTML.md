@@ -43,3 +43,8 @@ L - Language
 [link2]: https://github.com/Minseo-Jo/Coding-tech/blob/86fc010f9ca5ab5b9c3f26dd47794920fe8e4f67/Web/HTML/html2.html
 [link3]: https://github.com/Minseo-Jo/Coding-tech/blob/d98d274a2e47dc242fa64919e0ffd4832f810820/Web/HTML/html3.html
 [link4]: https://github.com/Minseo-Jo/Coding-tech/blob/d98d274a2e47dc242fa64919e0ffd4832f810820/Web/HTML/html4.html
+
+
+
+
+참고) HTML사전: <https://opentutorials.org/module/552>

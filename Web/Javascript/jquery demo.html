@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jqeury Demo</title>
+	<script type= "text/javascript" src="jquery.js"></script>
+	
+
+
+</head>
+
+<body>
+<ul id="list">
+	<li>empty</li>
+	<li>empty</li>
+	<li>empty</li>
+	<li>empty</li>
+</ul>
+<input id ="execute_btn" type="button" value="execute"/>
+
+<script type= "text/javascript">
+
+// jquery는 모두 $로 시작한다.
+$('#execute_btn').click(function(){
+	$('#list li').text('coding everybody');
+})
+
+
+</script>
+</body>
+
+</html>

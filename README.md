@@ -17,7 +17,8 @@
 
 * [HTML][go to HTML]
 * [CSS][go to CSS]
-* Javascript
+* [JavaScript][go to Javascript]
 
 [go to HTML]: https://github.com/Minseo-Jo/Coding-tech/blob/cde66468815df175dc1646023bb1d05d249cb360/Web/HTML/HTML.md
 [go to CSS]: https://github.com/Minseo-Jo/Coding-tech/blob/5124e78eef1fdd7478d9171f482926965fc0661c/Web/CSS/CSS.md
+[go to Javascript]: https://github.com/Minseo-Jo/Coding-tech/blob/8550ed073c202f85f2d3a162632c2b538e43792c/Web/Javascript/Javascript.md

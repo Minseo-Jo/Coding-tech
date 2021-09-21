@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+<script type="text/javascript">
+//해결방법이 없으면 addEventlistner에서 오류가 발생한다.
+	
+	//해결방법
+	window.onload = function(){ 
+		var hw = document.getElementById('hw');
+		hw.addEventListener('click', function(){ 
+			alert('Hello world');
+		})
+	}
+</script>
+
+</head>
+
+<body>
+	<input type ="button" id="hw" value="Hello world"/>
+
+
+</body>
+
+</html>
+
+<!--onload는 현재 웹페이지에 있는 모든 code가 다 읽힌후 웹브라우저는 윈도우 객체의 온로드라는 메소드를 호출하도록 약속되어있음 

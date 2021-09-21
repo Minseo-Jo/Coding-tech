@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HTML Collection</title>
+</head>
+<body>
+<ul>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li id = 'active'>JavaScript</li>
+</ul>
+<script type="text/javascript">
+	console.group('before');
+	var lis = document.getElementsByTagName('li');
+	for(var i = 0; i < lis.length; i++){
+		console.log(lis[i]);
+	}
+	console.groupEnd(); 
+	// group사이에 있는 console log들을 그룹핑해서 보여준다.
+
+	console.group('after');
+	lis[1].parentNode.removeChild(lis[1]); 
+	//2번째 엘리먼트 삭제
+	for(var i = 0; i <lis.length; i++){
+		console.log(lis[i])
+	}
+	console.groupEnd();
+
+</script>
+</body>
+</html>

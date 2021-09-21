@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<style>li {padding:10px; list-style: none}</style>
+<body>
+<ul>
+    <li>
+        첫번째 인자는 새 창에 로드할 문서의 URL이다. 인자를 생략하면 이름이 붙지 않은 새 창이 만들어진다.<br />
+        <input type="button" onclick="open1()" value="window.open('demo2.html');" />
+    </li>
+    <li>
+        두번째 인자는 새 창의 이름이다. _self는 스크립트가 실행되는 창을 의미한다.<br />
+        <input type="button" onclick="open2()" value="window.open('demo2.html', '_self');" />
+    </li>
+    <li>
+        _blank는 새 창을 의미한다. <br />
+        <input type="button" onclick="open3()" value="window.open('demo2.html', '_blank');" />
+    </li>
+    <li>
+        창에 이름을 붙일 수 있다. open을 재실행 했을 때 동일한 이름의 창이 있다면 그곳으로 문서가 로드된다.<br />
+        <input type="button" onclick="open4()" value="window.open('demo2.html', 'ot');" />
+    </li>
+    <li>
+        세번재 인자는 새 창의 모양과 관련된 속성이 온다.<br />
+        <input type="button" onclick="open5()" value="window.open('demo2.html', '_blank', 'width=200, height=200, resizable=yes');" />
+    </li>
+</ul>
+ 
+<script>
+function open1(){
+    window.open('demo2.html'); 
+}
+function open2(){
+    window.open('demo2.html', '_self'); //새로운 창이 생기지 않고 현재의 창이 바뀜 
+}
+function open3(){
+    window.open('demo2.html', '_blank'); // 새로운창이 열림
+}
+function open4(){
+    window.open('demo2.html', 'ot'); //새로운 창이 열려있다면 재실행해도 계속 그 창으로 뜬다. 
+}
+function open5(){
+    window.open('demo2.html', '_blank', 'width=200, height=200, resizable=no'); 
+    //새 탭이 아니라 창이 열리면서 속성에 맞는 창이 열린다. 
+}
+//open메소드는 자바스크립트의 a태그를 사용한것과 같은 효과를 낸다.
+
+</script>
+</body>
+</html>
